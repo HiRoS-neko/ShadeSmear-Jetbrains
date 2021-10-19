@@ -1,0 +1,13 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>co.giammar.kyle.shadesmear</id>
+    <name>ShadeSmear Themes</name>
+    <vendor>Kyle-Giammarco</vendor>
+
+    <description>A mellow color scheme for IntelliJ IDEs, with a dark and light variant</description>
+
+    <change-notes>Initial release</change-notes>
+    <idea-version since-build="193"/>
+    <depends>com.intellij.modules.platform</depends>
+    <version>0.1.0</version>
+</idea-plugin>
