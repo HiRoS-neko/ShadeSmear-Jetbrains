@@ -8,6 +8,16 @@
 A mellow color scheme for IntelliJ IDEs, with a dark and light variant 
 <!-- Plugin description end -->
 
+## ScreenShots
+
+### Dark
+
+[Dark Screeenshot](ShadeSmear-Dark.png)
+
+### Light
+
+[Light Screeenshot](ShadeSmear-Dark.png)
+
 ## Installation
 
 - Using IDE built-in plugin system:
