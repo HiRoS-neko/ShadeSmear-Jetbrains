@@ -12,5 +12,11 @@
 
     <depends>com.intellij.modules.platform</depends>
 
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="71DBBDE5-0E06-4FB8-8A1D-29792A699A72" path="/ShadeSmearDark.theme.json"/>
+        <themeProvider id="03098948-A6FE-4731-BB62-EDD240313165" path="/ShadeSmearLight.theme.json"/>
+    </extensions>
+
     <version>0.1.1</version>
 </idea-plugin>

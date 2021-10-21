@@ -2,6 +2,8 @@
 
 # Shadesmear-Jetbrains Changelog
 
+## [Unreleased]
+
 ## [0.1.1]
 ### Added
 - Initial Release
