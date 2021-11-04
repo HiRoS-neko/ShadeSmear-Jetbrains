@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+## [0.1.2]
+### Changed
+- Changed VCS Added/Changed/Deleted Colors
+- Swapped Constant and Variable colors to make the theme more legible
+
 ## [0.1.1]
 ### Added
 - Initial Release
