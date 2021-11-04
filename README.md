@@ -12,11 +12,11 @@ A mellow color scheme for IntelliJ IDEs, with a dark and light variant
 
 ### Dark
 
-[Dark Screeenshot](ShadeSmear-Dark.png)
+![Dark Screeenshot](ShadeSmear-Dark.png)
 
 ### Light
 
-[Light Screeenshot](ShadeSmear-Dark.png)
+![Light Screeenshot](ShadeSmear-Light.png)
 
 ## Installation
 
