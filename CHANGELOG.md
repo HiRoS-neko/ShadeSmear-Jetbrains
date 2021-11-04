@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.2.0]
+### Changed
+- Adjusted VCS Gutter Color Opacity
+
 ## [0.1.2]
 ### Changed
 - Changed VCS Added/Changed/Deleted Colors

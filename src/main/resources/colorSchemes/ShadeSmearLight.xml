@@ -3,13 +3,13 @@
 
 <scheme name="ShadeSmear Light" version="142" parent_scheme="Darcula">
     <colors>
-        <option name="ADDED_LINES_COLOR" value="83BE2F"/>
+        <option name="ADDED_LINES_COLOR" value="83BE2F80"/>
         <option name="ANNOTATIONS_COLOR" value="232323"/>
         <option name="BORDER_LINES_COLOR" value=""/>
         <option name="CARET_COLOR" value="232323"/>
         <option name="CARET_ROW_COLOR" value="E4E4E4"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="DBDBDB"/>
-        <option name="DELETED_LINES_COLOR" value="C33732"/>
+        <option name="DELETED_LINES_COLOR" value="C3373280"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30"/>
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b"/>
         <option name="DOCUMENTATION_COLOR" value="DBDBDB"/>
@@ -18,7 +18,7 @@
         <option name="INFORMATION_HINT" value="DBDBDB"/>
         <option name="LINE_NUMBERS_COLOR" value="4E4E4E"/>
         <option name="METHOD_SEPARATORS_COLOR" value="4E4E4E"/>
-        <option name="MODIFIED_LINES_COLOR" value="DDA536"/>
+        <option name="MODIFIED_LINES_COLOR" value="DDA53680"/>
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11"/>
         <option name="QUESTION_HINT" value="DBDBDB"/>
         <option name="RIGHT_MARGIN_COLOR" value="4E4E4E"/>
@@ -36,7 +36,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="A64270"/>
         <option name="WHITESPACES" value="4E4E4E"/>
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4E4E4E"/>
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4E4E4E80"/>
     </colors>
     <attributes>
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
