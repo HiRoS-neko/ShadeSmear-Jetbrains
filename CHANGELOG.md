@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.2.1]
+### Changed
+- Adjusted Search and TODO highlighting
+
 ## [0.2.0]
 ### Changed
 - Adjusted VCS Gutter Color Opacity
