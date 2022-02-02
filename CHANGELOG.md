@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.2.3]
+### Changed
+- Fixed off color status bar
+
 ## [0.2.2]
 ### Changed
 - Bumped IDE version to work with EAPs
