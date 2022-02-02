@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.2.2]
+### Changed
+- Bumped IDE version to work with EAPs
+
 ## [0.2.1]
 ### Changed
 - Adjusted Search and TODO highlighting
