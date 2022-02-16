@@ -1,8 +1,15 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Shadesmear-Jetbrains Changelog
+# ShadeSmear-Jetbrains Changelog
 
 ## [Unreleased]
+
+## [0.2.4]
+### Changed
+- Add some missing colors
+- Added Unity Plugin Colors for Rider
+- Add colors for Rainbow Brackets
+- Add colors for Heap Allocations Viewer
 
 ## [0.2.3]
 ### Changed
