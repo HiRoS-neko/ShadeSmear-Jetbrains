@@ -1302,8 +1302,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="DBDBDB"/>
-                <option name="ERROR_STRIPE_COLOR" value="4d6168"/>
+                <option name="EFFECT_COLOR" value="6D6D6D"/>
             </value>
         </option>
         <option name="IGNORE.BRACKET" baseAttributes="DEFAULT_KEYWORD"/>
@@ -3485,8 +3484,7 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="DBDBDB"/>
-                <option name="ERROR_STRIPE_COLOR" value="4d6168"/>
+                <option name="EFFECT_COLOR" value="6D6D6D"/>
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
