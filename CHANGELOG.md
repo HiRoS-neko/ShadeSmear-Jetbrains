@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.2.5]
+### Changed
+- Lowered contrast on caret under identifier
+
 ## [0.2.4]
 ### Changed
 - Add some missing colors
