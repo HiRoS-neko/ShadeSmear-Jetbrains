@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.2.6]
+### Changed
+- Decreased the brightness of whitespace
+
 ## [0.2.5]
 ### Changed
 - Lowered contrast on caret under identifier

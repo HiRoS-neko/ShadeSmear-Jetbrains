@@ -35,7 +35,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_3" value="4E4E4E"/>
         <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="A64270"/>
-        <option name="WHITESPACES" value="C0C0C0"/>
+        <option name="WHITESPACES" value="6D6D6D"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="C0C0C080"/>
     </colors>
     <attributes>
