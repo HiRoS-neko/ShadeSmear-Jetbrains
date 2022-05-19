@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.2.7]
+### Changed
+- Removed max version number for compatibility
+
 ## [0.2.6]
 ### Changed
 - Decreased the brightness of whitespace
