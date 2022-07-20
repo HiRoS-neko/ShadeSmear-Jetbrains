@@ -6,7 +6,7 @@
   "editorScheme": "/colorSchemes/ShadeSmearDark.xml",
   "ui": {
     "*": {
-      "//*": "#FF00FF",
+      "*": "#FF00FF",
       "background": "$darkerBackground",
       "foreground": "$defaultForeground",
       "//borderColor": "#00FFFF",
@@ -30,7 +30,7 @@
     },
     "MnemonicIcon": {
       "background": "$bookmarkBackground",
-      "borderColor": "$toolwindowBackground",
+      "borderColor": "$toolWindowBackground",
       "foreground": "$textInputBackground"
     },
     "NavBar": {
@@ -82,13 +82,13 @@
       "underlineColor": "$selectionUnderline",
       "inactiveUnderlineColor": "$selectionUnderlineInactive",
       "underlineHeight": 3,
-      "underlinedTabBackground": "$toolwindowBackground"
+      "underlinedTabBackground": "$toolWindowBackground"
     },
     "ToolWindow": {
       "Button": {
         "selectedBackground": "$selectionBackgroundInactive",
         "selectedForeground": "$defaultForeground",
-        "hoverBackground": "$toolwindowBackground"
+        "hoverBackground": "$toolWindowBackground"
       },
       "Header": {
         "borderColor": "$border",
@@ -97,8 +97,8 @@
       },
       "HeaderTab": {
         "selectedInactiveBackground": "$darkerBackground",
-        "hoverBackground": "$toolwindowBackground",
-        "hoverInactiveBackground": "$toolwindowBackground"
+        "hoverBackground": "$toolWindowBackground",
+        "hoverInactiveBackground": "$toolWindowBackground"
       }
     },
     "ScrollBar": {
@@ -169,7 +169,7 @@
       "disabledText": "$disabledForeground"
     },
     "List": {
-      "background": "$toolwindowBackground",
+      "background": "$toolWindowBackground",
       "foreground": "$defaultForeground",
       "selectionBackground": "$selectionBackground",
       "selectionForeground": "$selectionForeground"
@@ -218,7 +218,7 @@
       },
       "Toolbar": {
         "background": "$darkerBackground",
-        "borderColor": "$toolwindowBackground"
+        "borderColor": "$toolWindowBackground"
       },
       "Advertiser": {
         "background": "$darkerBackground",
@@ -283,7 +283,7 @@
     },
     "ComboPopup.border": "1,1,1,1,585858",
     "Tree": {
-      "background": "$toolwindowBackground",
+      "background": "$toolWindowBackground",
       "foreground": "$defaultForeground",
       "modifiedItemForeground": "$linkAccented"
     },
@@ -323,15 +323,23 @@
       "pressedForeground": "$linkRegular",
       "visitedForeground": "$linkRegular"
     },
+    "MainToolbar": {
+      "inactiveBackground": "$darkerBackground",
+      "background": "$defaultBackground"
+    },
+    "MemoryIndicator": {
+      "usedBackground": "$lighterBackground",
+      "allocatedBackground": "$darkerBackground"
+    },
     "Plugins": {
-      "background": "$toolwindowBackground",
+      "background": "$toolWindowBackground",
       "lightSelectionBackground": "$selectionBackgroundMuted",
       "SectionHeader": {
         "background": "$darkerBackground",
         "foreground": "$defaultForeground"
       },
       "Tab": {
-        "selectedBackground": "$toolwindowBackground",
+        "selectedBackground": "$toolWindowBackground",
         "selectedForeground": "$defaultForeground",
         "hoverBackground": "$tabBackgroundSelected"
       },
@@ -401,7 +409,7 @@
       "pressedBorderColor": "$controlBorder"
     },
     "Table": {
-      "background": "$toolwindowBackground",
+      "background": "$toolWindowBackground",
       "foreground": "$defaultForeground",
       "stripeColor": "$textInputBackground",
       "gridColor": "$darkerBackground",
@@ -439,12 +447,11 @@
       "foreground": "$darkerBackground"
     },
     "DragAndDrop": {
-      "areaBackground": "#23324D",
-      "areaBorderColor": "#23324D",
+      "areaBackground": "$lighterBackground",
       "areaForeground": "$defaultForeground"
     },
     "Editor": {
-      "background": "$toolwindowBackground",
+      "background": "$toolWindowBackground",
       "foreground": "$defaultForeground",
       "shortcutForeground": "$linkRegular"
     },
@@ -476,11 +483,11 @@
       "background": "$darkerBackground",
       "borderColor": "$separator",
       "separatorColor": "$separator",
-      "Details.background": "$toolwindowBackground",
+      "Details.background": "$toolWindowBackground",
       "Projects": {
         "actions.selectionBackground": "$selectionBackground",
         "actions.background": "$darkerBackground",
-        "background": "$toolwindowBackground",
+        "background": "$toolWindowBackground",
         "selectionBackground": "$selectionBackground",
         "selectionInactiveBackground": "$selectionBackgroundInactive"
       },
@@ -522,7 +529,7 @@
     "Window.border": "0,0,0,0,58585833",
     "DebuggerPopup.borderColor": "$popupBorder",
     "Separator.separatorColor": "$separator",
-    "SidePanel.background": "$toolwindowBackground",
+    "SidePanel.background": "$toolWindowBackground",
     "OptionPane.background": "$darkerBackground"
   },
   "colors": {
@@ -547,7 +554,6 @@
     "$lighterRed": "#C33732",
     "$lighterYellow": "#DDA536",
     "$lighterOrange": "#C87028",
-
     "$selectionBackground": "#3F3F3F",
     "$selectionBackgroundMuted": "#6D6D6D",
     "$selectionUnderline": "#C0C0C0",
@@ -562,7 +568,7 @@
     "$focusedBorder": "#3F3F3F",
     "$controlFocus": "#3F3F3F",
     "$popupBorder": "#3F3F3F",
-    "$toolwindowBackground": "#232323",
+    "$toolWindowBackground": "#232323",
     "$tooltipBackground": "#3F3F3F",
     "$mutedForeground": "#C0C0C0",
     "$disabledForeground": "#6D6D6D",

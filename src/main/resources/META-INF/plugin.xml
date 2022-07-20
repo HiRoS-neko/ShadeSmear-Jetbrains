@@ -18,5 +18,5 @@
         <themeProvider id="03098948-A6FE-4731-BB62-EDD240313165" path="/ShadeSmearLight.theme.json"/>
     </extensions>
 
-    <version>0.2.7</version>
+    <version>0.2.8</version>
 </idea-plugin>
