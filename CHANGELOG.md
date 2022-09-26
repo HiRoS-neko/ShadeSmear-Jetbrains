@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.3.0]
+### Changed
+- Updated max version number for compatibility
+
 ## [0.2.8]
 ### Changed
 - Fixed inactive titlebar color
