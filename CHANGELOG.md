@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+## [0.3.1]
+### Changed
+- Updated max version number for compatibility
+- Adjusted some colors
+
 ## [0.3.0]
 ### Changed
 - Updated max version number for compatibility
