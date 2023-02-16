@@ -29,11 +29,11 @@
         <option name="SEPARATOR_LINE_BELOW_FOREGROUND" value="0"/>
         <option name="SOFT_WRAP_SIGN_COLOR" value="C0C0C0"/>
         <option name="TEARLINE_COLOR" value="E4E4E4"/>
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="C0C0C0"/>
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="C0C0C0"/>
-        <option name="VCS_ANNOTATIONS_COLOR_3" value="E4E4E4"/>
-        <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5"/>
-        <option name="VCS_ANNOTATIONS_COLOR_5" value="A64270"/>
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="3F3F3F20"/>
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="3F3F3F40"/>
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="3F3F3F60"/>
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="3F3F3F80"/>
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="3F3F3F"/>
         <option name="WHITESPACES" value="6D6D6D"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="C0C0C080"/>
     </colors>
@@ -45,12 +45,12 @@
         </option>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="D7AB54"/>
+                <option name="FOREGROUND" value="C0C0C0"/>
             </value>
         </option>
         <option name="ANNOTATION_NAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="D7AB54"/>
+                <option name="FOREGROUND" value="C0C0C0"/>
             </value>
         </option>
         <option name="APACHE_CONFIG.ARG_LEXEM">
