@@ -3118,20 +3118,20 @@
         </option>
         <option name="ReSharper.HEAP_VIEW_ALLOCATION">
             <value>
-                <option name="EFFECT_COLOR" value="dda536" />
-                <option name="EFFECT_TYPE" value="1" />
+                <option name="EFFECT_COLOR" value="dda536"/>
+                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="ReSharper.HEAP_VIEW_BOXING">
             <value>
-                <option name="EFFECT_COLOR" value="c33732" />
-                <option name="EFFECT_TYPE" value="1" />
+                <option name="EFFECT_COLOR" value="c33732"/>
+                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="ReSharper.HEAP_VIEW_STRUCT_COPY">
             <value>
-                <option name="EFFECT_COLOR" value="1dbaba" />
-                <option name="EFFECT_TYPE" value="1" />
+                <option name="EFFECT_COLOR" value="1dbaba"/>
+                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="ReSharper.FORMAT_STRING_ITEM">
@@ -3306,7 +3306,7 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-<!--                <option name="FOREGROUND" value="32424a"/>-->
+                <!--                <option name="FOREGROUND" value="32424a"/>-->
                 <option name="BACKGROUND" value="DDA53666"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
@@ -3476,6 +3476,121 @@
             <value>
                 <option name="FOREGROUND" value="a7dbd8"/>
                 <option name="FONT_TYPE" value="1"/>
+            </value>
+        </option>
+        <option name="round bracket level 2">
+            <value>
+                <option name="FOREGROUND" value="71983b"/>
+            </value>
+        </option>
+        <option name="round bracket level 3">
+            <value>
+                <option name="FOREGROUND" value="376988"/>
+            </value>
+        </option>
+        <option name="round bracket level 4">
+            <value>
+                <option name="FOREGROUND" value="307878"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="d7ab54"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="71983b"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="376988"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+            <value>
+                <option name="FOREGROUND" value="307878"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+            <value>
+                <option name="FOREGROUND" value="a64270"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="d7ab54"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="71983b"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="376988"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+            <value>
+                <option name="FOREGROUND" value="307878"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+            <value>
+                <option name="FOREGROUND" value="a64270"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="d7ab54"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="71983b"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="376988"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+            <value>
+                <option name="FOREGROUND" value="307878"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+            <value>
+                <option name="FOREGROUND" value="a64270"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="d7ab54"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="71983b"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="376988"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+            <value>
+                <option name="FOREGROUND" value="307878"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+            <value>
+                <option name="FOREGROUND" value="a64270"/>
             </value>
         </option>
     </attributes>

@@ -4,6 +4,13 @@
 
 ## [Unreleased]
 
+## [0.3.3]
+
+### Added
+
+- ReAdd Rainbow Brackets Compatibility
+- Add Compatibility with Nested Brackets Colorer
+
 ## [0.3.2]
 
 ### Changed
