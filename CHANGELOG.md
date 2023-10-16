@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+## [0.3.5]
+
+### Changed
+
+- Updated max version number for compatibility
+
 ## [0.3.4]
 
 ### Changed
