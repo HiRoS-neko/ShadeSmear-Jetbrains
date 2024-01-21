@@ -4,6 +4,18 @@
 
 ## [Unreleased]
 
+## [0.4.1]
+
+### Changed
+
+- Updated max version number for compatibility
+
+## [0.4.0]
+
+### Added
+
+- Added alternative Dark scheme based on Flexoki (https://stephango.com/flexoki)
+
 ## [0.3.5]
 
 ### Changed

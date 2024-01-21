@@ -1,0 +1,633 @@
+{
+  "commentary": "This document is auto-generated, do not edit manually",
+  "name": "ShadeSmear Flexoki Dark",
+  "dark": true,
+  "author": "Kyle Giammarco",
+  "editorScheme": "/colorSchemes/ShadeSmearFlexokiDark.xml",
+  "ui": {
+    "*": {
+      "*": "#FF00FF",
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "//borderColor": "#00FFFF",
+      "selectionBackground": "$selectionBackground",
+      "selectionForeground": "$selectionForeground",
+      "selectionInactiveBackground": "$selectionBackgroundInactive",
+      "selectionBackgroundInactive": "$selectionBackgroundInactive",
+      "selectionInactiveForeground": "$selectionForegroundInactive",
+      "selectionForegroundInactive": "$selectionForegroundInactive"
+    },
+    "Panel": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground"
+    },
+    "Borders": {
+      "color": "$border",
+      "ContrastBorderColor": "$border"
+    },
+    "BookmarkIcon": {
+      "background": "$bookmarkBackground"
+    },
+    "MnemonicIcon": {
+      "background": "$bookmarkBackground",
+      "borderColor": "$toolWindowBackground",
+      "foreground": "$textInputBackground"
+    },
+    "NavBar": {
+      "borderColor": "$border"
+    },
+    "StatusBar": {
+      "borderColor": "$border"
+    },
+    "SearchEverywhere": {
+      "Header.background": "$darkerBackground",
+      "Tab": {
+        "selectedBackground": "$tabBackgroundSelected",
+        "selectedForeground": "$selectionForeground"
+      },
+      "SearchField": {
+        "background": "$textInputBackground",
+        "borderColor": "$darkerBackground",
+        "infoForeground": "$disabledForeground"
+      },
+      "List": {
+        "separatorForeground": "$mutedForeground",
+        "separatorColor": "$border"
+      },
+      "Advertiser": {
+        "background": "$darkerBackground",
+        "foreground": "$mutedForeground"
+      }
+    },
+    "SearchMatch": {
+      "startBackground": "$speedSearchMatchBackground",
+      "endBackground": "$speedSearchMatchBackground"
+    },
+    "SpeedSearch": {
+      "background": "$speedSearchBackground",
+      "borderColor": "$speedSearchBackground",
+      "foreground": "#000000",
+      "errorForeground": "#8C1F1C"
+    },
+    "DefaultTabs": {
+      "background": "$darkerBackground",
+      "hoverBackground": "$tabBackgroundSelected",
+      "underlineColor": "$selectionUnderline",
+      "inactiveUnderlineColor": "$selectionUnderlineInactive",
+      "underlinedTabBackground": "$tabBackgroundSelected"
+    },
+    "EditorTabs": {
+      "borderColor": "$border",
+      "background": "$darkerBackground",
+      "underlineColor": "$selectionUnderline",
+      "inactiveUnderlineColor": "$selectionUnderlineInactive",
+      "underlineHeight": 3,
+      "underlinedTabBackground": "$toolWindowBackground"
+    },
+    "ToolWindow": {
+      "Button": {
+        "selectedBackground": "$selectionBackgroundInactive",
+        "selectedForeground": "$defaultForeground",
+        "hoverBackground": "$toolWindowBackground"
+      },
+      "Header": {
+        "borderColor": "$border",
+        "background": "$selectionToolwindowHeader",
+        "inactiveBackground": "$darkerBackground"
+      },
+      "HeaderTab": {
+        "selectedInactiveBackground": "$darkerBackground",
+        "hoverBackground": "$toolWindowBackground",
+        "hoverInactiveBackground": "$toolWindowBackground"
+      }
+    },
+    "ScrollBar": {
+      "background": "$darkerBackground",
+      "trackColor": "$darkerBackground",
+      "Mac.trackColor": "$darkerBackground",
+      "hoverTrackColor": "$darkerBackground",
+      "Mac.hoverTrackColor": "$darkerBackground",
+      "Transparent.trackColor": "#38383800",
+      "Mac.Transparent.trackColor": "#38383800",
+      "Transparent.hoverTrackColor": "#38383800",
+      "Mac.Transparent.hoverTrackColor": "#38383800",
+      "thumbBorderColor": "#88889940",
+      "Mac.thumbBorderColor": "#88889940",
+      "hoverThumbBorderColor": "#888899",
+      "Mac.hoverThumbBorderColor": "#888899",
+      "thumbColor": "#88889940",
+      "Mac.thumbColor": "#88889940",
+      "hoverThumbColor": "#888899",
+      "Mac.hoverThumbColor": "#888899",
+      "Transparent.thumbBorderColor": "#88889940",
+      "Mac.Transparent.thumbBorderColor": "#88889940",
+      "Transparent.hoverThumbBorderColor": "#888899",
+      "Mac.Transparent.hoverThumbBorderColor": "#888899",
+      "Transparent.thumbColor": "#88889940",
+      "Mac.Transparent.thumbColor": "#88889940",
+      "Transparent.hoverThumbColor": "#888899",
+      "Mac.Transparent.hoverThumbColor": "#888899"
+    },
+    "CheckBox": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "disabledText": "$disabledForeground"
+    },
+    "RadioButton": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "disabledText": "$disabledForeground"
+    },
+    "Button": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "startBorderColor": "$controlBorder",
+      "endBorderColor": "$controlBorder",
+      "focusedBorderColor": "$focusedBorder",
+      "startBackground": "$buttonFace",
+      "endBackground": "$buttonFace",
+      "shadowWidth": 0,
+      "default": {
+        "foreground": "$selectionForeground",
+        "startBorderColor": "$focusedBorder",
+        "endBorderColor": "$focusedBorder",
+        "focusedBorderColor": "$focusedBorder",
+        "startBackground": "$selectionBackground",
+        "endBackground": "$selectionBackground",
+        "focusColor": "$controlFocus"
+      }
+    },
+    "ToggleButton": {
+      "background": "#FF00FF",
+      "borderColor": "$controlBorder",
+      "foreground": "$defaultForeground",
+      "buttonColor": "$controlBorder",
+      "onBackground": "$selectionBackground",
+      "onForeground": "$selectionForeground",
+      "offBackground": "$buttonFace",
+      "offForeground": "$mutedForeground",
+      "disabledText": "$disabledForeground"
+    },
+    "List": {
+      "background": "$toolWindowBackground",
+      "foreground": "$defaultForeground",
+      "selectionBackground": "$selectionBackground",
+      "selectionForeground": "$selectionForeground"
+    },
+    "Spinner": {
+      "background": "$darkerBackground"
+    },
+    "HelpTooltip": {
+      "borderColor": "$popupBorder"
+    },
+    "ParameterInfo": {
+      "background": "$darkerBackground",
+      "currentOverloadBackground": "$selectionBackground",
+      "borderColor": "$popupBorder",
+      "foreground": "$defaultForeground",
+      "currentParameterForeground": "$selectionForeground",
+      "disabledForeground": "$disabledForeground",
+      "infoForeground": "$defaultForeground",
+      "lineSeparatorColor": "$darkerBackground"
+    },
+    "Menu": {
+      "background": "$darkerBackground",
+      "borderColor": "$popupBorder",
+      "foreground": "$defaultForeground",
+      "selectionForeground": "$selectionForeground",
+      "separatorColor": "$separator",
+      "acceleratorForeground": "$mutedForeground",
+      "acceleratorSelectionForeground": "$selectionForeground",
+      "disabledForeground": "$disabledForeground"
+    },
+    "PopupMenu": {
+      "borderWidth": 1,
+      "borderInsets": "4,1,4,1",
+      "background": "$darkerBackground",
+      "translucentBackground": "$darkerBackground",
+      "foreground": "$defaultForeground"
+    },
+    "Popup": {
+      "borderColor": "$popupBorder",
+      "inactiveBorderColor": "$popupBorder",
+      "separatorColor": "$separator",
+      "separatorForeground": "$mutedForeground",
+      "Header": {
+        "activeBackground": "$darkerBackground",
+        "inactiveBackground": "$darkerBackground"
+      },
+      "Toolbar": {
+        "background": "$darkerBackground",
+        "borderColor": "$toolWindowBackground"
+      },
+      "Advertiser": {
+        "background": "$darkerBackground",
+        "borderColor": "$darkerBackground",
+        "foreground": "$mutedForeground"
+      }
+    },
+    "MenuBar": {
+      "foreground": "$defaultForeground",
+      "borderColor": "$darkerBackground",
+      "disabledBackground": "$darkerBackground",
+      "disabledForeground": "$disabledForeground"
+    },
+    "MenuItem": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "selectionBackground": "$selectionBackground",
+      "selectionForeground": "$selectionForeground",
+      "acceleratorForeground": "$mutedForeground",
+      "disabledForeground": "$disabledForeground"
+    },
+    "CheckBoxMenuItem": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "selectionBackground": "$selectionBackground",
+      "selectionForeground": "$selectionForeground",
+      "acceleratorForeground": "$mutedForeground",
+      "acceleratorSelectionForeground": "$selectionForeground",
+      "disabledForeground": "$disabledForeground"
+    },
+    "RadioButtonMenuItem": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "selectionBackground": "$selectionBackground",
+      "selectionForeground": "$selectionForeground",
+      "acceleratorForeground": "$mutedForeground",
+      "acceleratorSelectionForeground": "$selectionForeground",
+      "disabledForeground": "$disabledForeground"
+    },
+    "CompletionPopup": {
+      "foreground": "$defaultForeground",
+      "matchForeground": "$searchMatchForeground"
+    },
+    "Label": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground",
+      "disabledForeground": "$disabledForeground",
+      "infoForeground": "$mutedForeground"
+    },
+    "ComboBox": {
+      "foreground": "$defaultForeground",
+      "background": "$buttonFace",
+      "disabledForeground": "$disabledForeground",
+      "nonEditableBackground": "$buttonFace",
+      "ArrowButton.background": "$buttonFace",
+      "ArrowButton.nonEditableBackground": "$buttonFace",
+      "ArrowButton.iconColor": "$iconGrayRegular",
+      "ArrowButton.disabledIconColor": "$iconGrayDisabled"
+    },
+    "ComboBoxButton": {
+      "background": "$buttonFace"
+    },
+    "ComboPopup.border": "1,1,1,1,585858",
+    "Tree": {
+      "background": "$toolWindowBackground",
+      "foreground": "$defaultForeground",
+      "modifiedItemForeground": "$linkAccented"
+    },
+    "Notification": {
+      "background": "$notificationBackground",
+      "borderColor": "$notificationBorder",
+      "foreground": "$notificationForeground",
+      "errorBackground": "$validationErrorBackground",
+      "errorBorderColor": "$validationErrorBorder",
+      "errorForeground": "$validationErrorForeground",
+      "ToolWindow": {
+        "errorBackground": "$validationErrorBackground",
+        "errorBorderColor": "$validationErrorBorder",
+        "errorForeground": "$validationErrorForeground",
+        "warningBackground": "$validationWarningBackground",
+        "warningBorderColor": "$validationWarningBorder",
+        "warningForeground": "$validationWarningForeground",
+        "informativeBackground": "$validationInformativeBackground",
+        "informativeBorderColor": "$validationInformativeBorder",
+        "informativeForeground": "$validationInformativeForeground"
+      },
+      "MoreButton": {
+        "background": "$notificationBackground",
+        "innerBorderColor": "$notificationBackground",
+        "foreground": "$linkRegular"
+      }
+    },
+    "ValidationTooltip": {
+      "errorBackground": "$validationErrorBackground",
+      "errorBorderColor": "$validationErrorBorder",
+      "warningBackground": "$validationWarningBackground",
+      "warningBorderColor": "$validationWarningBorder"
+    },
+    "Link": {
+      "activeForeground": "$linkRegular",
+      "hoverForeground": "$linkAccented",
+      "pressedForeground": "$linkRegular",
+      "visitedForeground": "$linkRegular"
+    },
+    "MainToolbar": {
+      "inactiveBackground": "$darkerBackground",
+      "background": "$defaultBackground"
+    },
+    "MemoryIndicator": {
+      "usedBackground": "$lighterBackground",
+      "allocatedBackground": "$darkerBackground"
+    },
+    "Plugins": {
+      "background": "$toolWindowBackground",
+      "lightSelectionBackground": "$selectionBackgroundMuted",
+      "SectionHeader": {
+        "background": "$darkerBackground",
+        "foreground": "$defaultForeground"
+      },
+      "Tab": {
+        "selectedBackground": "$toolWindowBackground",
+        "selectedForeground": "$defaultForeground",
+        "hoverBackground": "$tabBackgroundSelected"
+      },
+      "SearchField": {
+        "background": "$textInputBackground",
+        "borderColor": "$darkerBackground"
+      },
+      "Button": {
+        "installFillBackground": "$buttonFace",
+        "installFillForeground": "$defaultForeground",
+        "installBackground": "$buttonFace",
+        "installBorderColor": "$border",
+        "installForeground": "$defaultForeground",
+        "updateBackground": "$buttonFace",
+        "updateBorderColor": "$border",
+        "updateForeground": "$defaultForeground"
+      },
+      "tagBackground": "$darkerBackground",
+      "tagForeground": "$defaultForeground"
+    },
+    "Component": {
+      "borderColor": "$controlBorder",
+      "focusColor": "$controlFocus",
+      "focusedBorderColor": "$focusedBorder",
+      "disabledBorderColor": "$controlBorder",
+      "errorFocusColor": "$validationErrorFocus",
+      "inactiveErrorFocusColor": "$validationErrorFocusInactive",
+      "warningFocusColor": "$validationWarningFocus",
+      "inactiveWarningFocusColor": "$validationWarningFocusInactive",
+      "iconColor": "$mutedForeground",
+      "hoverIconColor": "$mutedForeground",
+      "infoForeground": "$mutedForeground"
+    },
+    "ToolTip": {
+      "background": "$tooltipBackground",
+      "foreground": "$defaultForeground",
+      "borderColor": "$popupBorder",
+      "infoForeground": "$defaultForeground",
+      "Actions.background": "$darkerBackground",
+      "Actions.infoForeground": "$defaultForeground"
+    },
+    "TextField": {
+      "background": "$textInputBackground",
+      "foreground": "$defaultForeground",
+      "inactiveForeground": "$defaultForeground"
+    },
+    "FormattedTextField": {
+      "background": "$textInputBackground",
+      "foreground": "$defaultForeground",
+      "inactiveBackground": "$textInputBackground",
+      "inactiveForeground": "$defaultForeground"
+    },
+    "PasswordField": {
+      "background": "$textInputBackground",
+      "foreground": "$defaultForeground"
+    },
+    "TextArea": {
+      "background": "$textInputBackground",
+      "foreground": "$defaultForeground",
+      "inactiveBackground": "$textInputBackground",
+      "inactiveForeground": "$defaultForeground"
+    },
+    "ActionButton": {
+      "hoverBackground": "$buttonFace",
+      "hoverBorderColor": "$controlBorder",
+      "pressedBackground": "$controlBorder",
+      "pressedBorderColor": "$controlBorder"
+    },
+    "Table": {
+      "background": "$toolWindowBackground",
+      "foreground": "$defaultForeground",
+      "stripeColor": "$textInputBackground",
+      "gridColor": "$darkerBackground",
+      "sortIconColor": "$mutedForeground",
+      "lightSelectionBackground": "$selectionBackground",
+      "lightSelectionForeground": "$selectionForeground",
+      "lightSelectionInactiveBackground": "$selectionBackgroundInactive",
+      "lightSelectionInactiveForeground": "$selectionForegroundInactive"
+    },
+    "TableHeader": {
+      "background": "$darkerBackground",
+      "foreground": "$mutedForeground",
+      "cellBorder": "0,1,1,1",
+      "separatorColor": "$border",
+      "bottomSeparatorColor": "$darkerBackground"
+    },
+    "ProgressBar": {
+      "trackColor": "#242424",
+      "progressColor": "#8F8F8FB0",
+      "indeterminateStartColor": "#8F8F8FB0",
+      "indeterminateEndColor": "#8F8F8F40",
+      "failedColor": "#BA5249B0",
+      "failedEndColor": "#BA524940",
+      "passedColor": "#6EA35AB0",
+      "passedEndColor": "#6EA35A40",
+      "selectionForeground": "$defaultForeground",
+      "selectionBackground": "$defaultForeground"
+    },
+    "Slider": {
+      "background": "$darkerBackground",
+      "tickColor": "$mutedForeground"
+    },
+    "Counter": {
+      "background": "$iconGrayMuted",
+      "foreground": "$darkerBackground"
+    },
+    "DragAndDrop": {
+      "areaBackground": "$lighterBackground",
+      "areaForeground": "$defaultForeground"
+    },
+    "Editor": {
+      "background": "$toolWindowBackground",
+      "foreground": "$defaultForeground",
+      "shortcutForeground": "$linkRegular"
+    },
+    "FileColor": {
+      "Rose": "#D14D4120",
+      "Orange": "#DA702C20",
+      "Yellow": "#D0A21520",
+      "Green": "#879A3920",
+      "Blue": "#4385BE20",
+      "Violet": "#CE5D9720"
+    },
+    "InplaceRefactoringPopup": {
+      "borderColor": "$border"
+    },
+    "TabbedPane": {
+      "background": "$darkerBackground",
+      "underlineColor": "$selectionUnderline",
+      "disabledUnderlineColor": "$selectionUnderlineInactive",
+      "contentAreaColor": "$border",
+      "hoverColor": "$tabBackgroundSelected",
+      "tabSelectionHeight": 3
+    },
+    "VersionControl": {},
+    "Viewport": {
+      "background": "$darkerBackground",
+      "foreground": "$defaultForeground"
+    },
+    "WelcomeScreen": {
+      "background": "$darkerBackground",
+      "borderColor": "$separator",
+      "separatorColor": "$separator",
+      "Details.background": "$toolWindowBackground",
+      "Projects": {
+        "actions.selectionBackground": "$selectionBackground",
+        "actions.background": "$darkerBackground",
+        "background": "$toolWindowBackground",
+        "selectionBackground": "$selectionBackground",
+        "selectionInactiveBackground": "$selectionBackgroundInactive"
+      },
+      "SidePanel.background": "$darkerBackground"
+    },
+    "Group": {
+      "separatorColor": "$separator"
+    },
+    "TitlePane": {
+      "background": "$darkerBackground",
+      "inactiveBackground": "$darkerBackground",
+      "infoForeground": "$mutedForeground",
+      "inactiveInfoForeground": "$disabledForeground"
+    },
+    "ScrollPane": {
+      "ScrollPane.background": "$darkerBackground",
+      "ScrollPane.foreground": "$defaultForeground"
+    },
+    "EditorPane": {
+      "inactiveBackground": "$darkerBackground",
+      "foreground": "$defaultForeground"
+    },
+    "Debugger": {
+      "Variables": {
+        "valueForeground": "$defaultForeground",
+        "changedValueForeground": "$validationWarningForeground",
+        "modifyingValueForeground": "$notificationForeground",
+        "collectingDataForeground": "$mutedForeground",
+        "errorMessageForeground": "$validationErrorForeground",
+        "evaluatingExpressionForeground": "$notificationForeground",
+        "exceptionForeground": "$validationWarningForeground"
+      }
+    },
+    "UnitTests": {
+    },
+    "NewClass": {
+      "Panel.background": "#404040"
+    },
+    "Window.border": "0,0,0,0,58585833",
+    "DebuggerPopup.borderColor": "$popupBorder",
+    "Separator.separatorColor": "$separator",
+    "SidePanel.background": "$toolWindowBackground",
+    "OptionPane.background": "$darkerBackground"
+  },
+  "colors": {
+    "$darkerBackground": "#100F0F",
+    "$defaultBackground": "#1C1B1A",
+    "$lighterBackground": "#282726",
+    "$grey": "#575653",
+    "$darkerForeground": "#878580",
+    "$defaultForeground": "#CECDC3",
+    "$lighterForeground": "#E6E4D9",
+    "$baseBlue": "#4385BE",
+    "$baseCyan": "#3AA99F",
+    "$baseGreen": "#879A39",
+    "$baseMagenta": "#CE5D97",
+    "$baseRed": "#D14D41",
+    "$baseYellow": "#D0A215",
+    "$baseOrange": "#DA702C",
+    "$lighterBlue": "#205EA6",
+    "$lighterCyan": "#24837B",
+    "$lighterGreen": "#66800B",
+    "$lighterMagenta": "#A02F6F",
+    "$lighterRed": "#AF3029",
+    "$lighterYellow": "#AD8301",
+    "$lighterOrange": "#BC5215",
+    "$selectionBackground": "#282726",
+    "$selectionBackgroundMuted": "#575653",
+    "$selectionUnderline": "#878580",
+    "$selectionBackgroundInactive": "#100F0F",
+    "$selectionUnderlineInactive": "#575653",
+    "$selectionForeground": "#E6E4D9",
+    "$selectionForegroundInactive": "#878580",
+    "$selectionToolwindowHeader": "#282726",
+    "$border": "#100F0F",
+    "$controlBorder": "#1C1B1A",
+    "$separator": "#575653",
+    "$focusedBorder": "#282726",
+    "$controlFocus": "#282726",
+    "$popupBorder": "#282726",
+    "$toolWindowBackground": "#1C1B1A",
+    "$tooltipBackground": "#282726",
+    "$mutedForeground": "#878580",
+    "$disabledForeground": "#575653",
+    "$textInputBackground": "#1C1B1A",
+    "$textInputBackgroundDisabled": "#282726",
+    "$tabBackgroundSelected": "#1C1B1A",
+    "$linkRegular": "#3AA99F",
+    "$linkAccented": "#24837B",
+    "$buttonFace": "#282726",
+    "$notificationBackground": "#282726",
+    "$notificationBorder": "#575653",
+    "$notificationForeground": "#C4DAFF",
+    "$validationErrorBackground": "#D14D41",
+    "$validationErrorBorder": "#AF3029B2",
+    "$validationErrorForeground": "#AF3029",
+    "$validationErrorFocus": "#D14D41A0",
+    "$validationErrorFocusInactive": "#D14D4160",
+    "$validationWarningBackground": "#AD830160",
+    "$validationWarningBorder": "#AD8301B2",
+    "$validationWarningForeground": "#AD8301",
+    "$validationWarningFocus": "#D0A215B2",
+    "$validationWarningFocusInactive": "#D0A21560",
+    "$validationInformativeBackground": "#3AA99F60",
+    "$validationInformativeBorder": "#3AA99F",
+    "$validationInformativeForeground": "#24837B",
+    "$speedSearchBackground": "#D0A215B2",
+    "$speedSearchMatchBackground": "#D0A215",
+    "$searchMatchForeground": "#D0A215",
+    "$iconGrayRegular": "#575653",
+    "$iconGrayMuted": "#575653B2",
+    "$iconGrayDisabled": "#57565362",
+    "$bookmarkBackground": "#D0A215"
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#878580",
+      "Actions.GreyInline": "#878580",
+      "Actions.GreyInline.Dark": "#878580",
+      "Actions.Red": "#D14D41",
+      "Actions.Green": "#879A39",
+      "Actions.Blue": "#4385BE",
+      "Actions.Yellow": "#D0A215",
+      "xActions.WelcomeScreen": "#ff00ff",
+      "Objects.Grey": "#575653",
+      "Objects.BlackText": "#100F0F",
+      "Objects.Red": "#D14D41",
+      "Objects.RedStatus": "#D14D41",
+      "Objects.Yellow": "#D0A215",
+      "Objects.YellowDark": "#DA702C",
+      "Objects.Green": "#879A39",
+      "Objects.GreenAndroid": "#669652FF",
+      "Objects.Blue": "#4385BE",
+      "Objects.Purple": "#CE5D97",
+      "Objects.Pink": "#BD6478",
+      "Checkbox.Background.Default.Dark": "#1C1B1A",
+      "Checkbox.Border.Default.Dark": "#100F0F",
+      "Checkbox.Foreground.Selected.Dark": "#CECDC3",
+      "Checkbox.Focus.Thin.Default.Dark": "#4385BE",
+      "Checkbox.Focus.Wide.Dark": "#205EA6"
+    }
+  }
+}
