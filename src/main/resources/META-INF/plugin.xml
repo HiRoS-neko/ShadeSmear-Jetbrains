@@ -15,9 +15,10 @@
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="71DBBDE5-0E06-4FB8-8A1D-29792A699A72" path="/ShadeSmearDark.theme.json"/>
+        <themeProvider id="408af074-5b22-4370-a108-cb638e0585f5" path="/ShadeSmearDarkRevised.theme.json"/>
         <themeProvider id="2ed70768-bd39-4c30-a284-941578134c2e" path="/ShadeSmearFlexokiDark.theme.json"/>
         <themeProvider id="03098948-A6FE-4731-BB62-EDD240313165" path="/ShadeSmearLight.theme.json"/>
     </extensions>
 
-    <version>0.4.1</version>
+    <version>0.5.0</version>
 </idea-plugin>

@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+## [0.5.0]
+
+### Changed
+
+- Added a slightly revised version of the dark theme for feedback
+
 ## [0.4.1]
 
 ### Changed
