@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+## [0.5.1]
+
+### Changed
+
+- Decreased the intensity of the right margin color
+
 ## [0.5.0]
 
 ### Changed

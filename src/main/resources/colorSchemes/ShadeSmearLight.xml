@@ -17,11 +17,11 @@
         <option name="INDENT_GUIDE" value="6D6D6D"/>
         <option name="INFORMATION_HINT" value="DBDBDB"/>
         <option name="LINE_NUMBERS_COLOR" value="4E4E4E"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="E4E4E4"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="C0C0C0"/>
         <option name="MODIFIED_LINES_COLOR" value="DDA53680"/>
         <option name="NOTIFICATION_BACKGROUND" value="C0C0C0"/>
         <option name="QUESTION_HINT" value="DBDBDB"/>
-        <option name="RIGHT_MARGIN_COLOR" value="E4E4E4"/>
+        <option name="RIGHT_MARGIN_COLOR" value="C0C0C0"/>
         <option name="SELECTED_INDENT_GUIDE" value="1C1C1C"/>
         <option name="SELECTED_TEARLINE_COLOR" value="1C1C1C"/>
         <option name="SELECTION_BACKGROUND" value="C0C0C0"/>
